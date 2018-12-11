@@ -26,3 +26,12 @@ Android
 - Codelab - https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#0
 
 - Concepts - https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-0-c-introduction-to-android/1-0-c-introduction-to-android.html
+
+## Coding Challenge
+
+Challenge: Now that you are set up and familiar with the basic development workflow, do the following:
+
+1 - Create a new project in Android Studio.
+2 - Change the "Hello World" greeting to "Happy Birthday to " and the name of someone with a recent birthday.
+3 - (Optional) Take a screenshot of your finished app and email it to someone whose birthday you forgot.
+4 - A common use of the Log class is to log Java exceptions when they occur in your program. There are some useful methods, such as Log.e(), that you can use for this purpose. Explore methods you can use to include an exception with a Log message. Then, write code in your app to trigger and log an exception.
