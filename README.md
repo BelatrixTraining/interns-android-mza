@@ -4,7 +4,7 @@ Repository for Mendoza Android Interns - December 2018
 In the first lesson we will lwarn the basics about Andoid and we will create our first Hello World App.
 
 ## Slides
-https://docs.google.com/presentation/d/1vgRc_DN2Wz-2YykkGCYEWFWPVqWck18mj8XPrctHM_8/edit
+https://docs.google.com/presentation/d/1vgRc_DN2Wz-2YykkGCYEWFWPVqWck18mj8XPrctHM_8/edit?usp=sharing
 
 ## Resources
 Git/Github
