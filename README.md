@@ -17,4 +17,6 @@ For Activities and Intent we have two examples:
 ## BroadcastReceiver
 For Broadcast Receiver we have an example that notice when the screen is turn on and shows a message with the time for that action.
 
-
+## Service
+For services we have an example to invoke a Service to download an inage from url and return the result to the Activty usen LocalBroadcastManager.
+Note: This example does not contain the implementation for RuntimePermissions so this has to be run in Android 5 devices or lower.
