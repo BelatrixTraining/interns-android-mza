@@ -13,7 +13,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class NetworkUtils {
-    private static final String LOG_TAG = NetworkUtils.class.getSimpleName();
     // Base URL for Books API.
     private static final String BOOK_BASE_URL =  "https://www.googleapis.com";
 
