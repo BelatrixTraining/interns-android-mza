@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteExample</string>
+    <string name="new_person_button">Add Person</string>
+    <string name="save_button">Guardar</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_lastname">Apellido</string>
+    <string name="hint_phoneNumber">Telefono</string>
+</resources>
