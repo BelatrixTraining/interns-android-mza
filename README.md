@@ -9,5 +9,9 @@ https://docs.google.com/presentation/d/1wG4Ol5gBSktCb4cDavF82F6blgmPBZ2A8G3nojgh
 ## LocationExample
 This example shows how to use Google Play Services to get Last Known Location, how to receive location updates and also how to implement RuntimePermissions.
 
+#Google Maps.
+To add Google Maps to the Location Example you can follow this tutorial:
+https://developers.google.com/maps/documentation/android-sdk/start
+
 ## Link to Final Quiz
 https://docs.google.com/forms/d/e/1FAIpQLSeDA5jV67TNISuiYWJw8X2jQUvXV8U-AOK3ScuVrL5HwSjA1A/viewform
