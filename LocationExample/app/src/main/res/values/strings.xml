@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationExample</string>
+    <string name="one_time_location">One time location</string>
+    <string name="continuous_location">Continuous Location</string>
+</resources>
